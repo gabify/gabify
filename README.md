@@ -22,7 +22,7 @@ Here are some of my projects:
 ## 📫 Connect with Me
 - LinkedIn: [Ivan Gabriel Talaoc](https://www.linkedin.com/in/ivan-gabriel-talaoc-8329b3243)
 - Email: talaocivangabriel@gmail.com
-- Portfolio: [https://yourwebsite.com](https://gabify-website.vercel.app/)
+- Portfolio: [gabify-website.vercel.app](https://gabify-website.vercel.app/)
 
 ---
 _💡 I’m always open to collaboration and learning new technologies! Feel free to reach out._
